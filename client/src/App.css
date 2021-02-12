@@ -1,0 +1,15 @@
+.map{
+    width:100%;
+    height:100vh;
+}
+
+.point{
+    cursor: pointer;
+}
+.entryForm *{
+    display: block;
+}
+.entryForm button{
+    margin-top:10px;
+    width:100%;
+}
